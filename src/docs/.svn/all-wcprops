@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/collective/!svn/ver/246835/buildout/python/src/docs
+END
+DEPENDENCIES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/collective/!svn/ver/96165/buildout/python/src/docs/DEPENDENCIES.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/collective/!svn/ver/106633/buildout/python/src/docs/INSTALL.txt
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/collective/!svn/ver/97225/buildout/python/src/docs/UPGRADE.txt
+END
+CHANGES.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/collective/!svn/ver/246835/buildout/python/src/docs/CHANGES.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/collective/!svn/ver/244620/buildout/python/src/docs/README.txt
+END
+BUGS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/collective/!svn/ver/96737/buildout/python/src/docs/BUGS.txt
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/collective/!svn/ver/246835/buildout/python/src
+END
+pdbtextmate.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/collective/!svn/ver/240925/buildout/python/src/pdbtextmate.cfg
+END
+issue9670-v2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/collective/!svn/ver/237157/buildout/python/src/issue9670-v2.txt
+END
+readline.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/collective/!svn/ver/244514/buildout/python/src/readline.cfg
+END
+python-2.4-darwin-10.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/collective/!svn/ver/96737/buildout/python/src/python-2.4-darwin-10.6.patch
+END
+debug.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/collective/!svn/ver/101337/buildout/python/src/debug.cfg
+END
+python32.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/collective/!svn/ver/240446/buildout/python/src/python32.cfg
+END
+python-2.5-darwin-10.6.patch
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/collective/!svn/ver/99136/buildout/python/src/python-2.5-darwin-10.6.patch
+END
+python24.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/collective/!svn/ver/242961/buildout/python/src/python24.cfg
+END
+test-python.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/collective/!svn/ver/123007/buildout/python/src/test-python.py
+END
+python25.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/collective/!svn/ver/242807/buildout/python/src/python25.cfg
+END
+python26.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/collective/!svn/ver/246833/buildout/python/src/python26.cfg
+END
+virtualenv3.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/collective/!svn/ver/122310/buildout/python/src/virtualenv3.in
+END
+python27.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/collective/!svn/ver/240925/buildout/python/src/python27.cfg
+END
+install-links.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/collective/!svn/ver/240446/buildout/python/src/install-links.in
+END
+pypy.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/collective/!svn/ver/244619/buildout/python/src/pypy.cfg
+END
+osdetect.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/collective/!svn/ver/242807/buildout/python/src/osdetect.py
+END
+issue12012-sslv2-py26.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/collective/!svn/ver/246833/buildout/python/src/issue12012-sslv2-py26.txt
+END
+virtualenv-pypy.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/collective/!svn/ver/228224/buildout/python/src/virtualenv-pypy.in
+END
+virtualenv.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/collective/!svn/ver/101339/buildout/python/src/virtualenv.in
+END
+monkeycmmi-0.1.zip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/collective/!svn/ver/109086/buildout/python/src/monkeycmmi-0.1.zip
+END
+monkeycmmi-0.2.zip
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/collective/!svn/ver/243601/buildout/python/src/monkeycmmi-0.2.zip
+END
+base.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/collective/!svn/ver/243601/buildout/python/src/base.cfg
+END
+libjpeg.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/collective/!svn/ver/242966/buildout/python/src/libjpeg.cfg
+END
+wo-deps.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/collective/!svn/ver/95688/buildout/python/src/wo-deps.cfg
+END
+links.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/collective/!svn/ver/95688/buildout/python/src/links.cfg
+END
